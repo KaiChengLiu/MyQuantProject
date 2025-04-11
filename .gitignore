@@ -1,0 +1,8 @@
+# Visual Studio CMake
+.vs/
+CMakeCache.txt
+CMakeCache.json
+config.json
+CMakeFiles/
+build/
+out/
