@@ -1,7 +1,7 @@
 # Visual Studio CMake
 .vs/
-CMakeCache.txt
-CMakeCache.json
+CMakeLists.txt
+CMakeSettings.json
 config.json
 CMakeFiles/
 build/
